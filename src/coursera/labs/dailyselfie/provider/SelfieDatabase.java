@@ -1,4 +1,4 @@
-package coursera.labs.dayliselfie.provider;
+package coursera.labs.dailyselfie.provider;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

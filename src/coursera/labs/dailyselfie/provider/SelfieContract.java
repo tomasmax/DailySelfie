@@ -1,13 +1,13 @@
-package coursera.labs.dayliselfie.provider;
+package coursera.labs.dailyselfie.provider;
 
 import android.net.Uri;
 
 public class SelfieContract {
 	
-	public static final String AUTHORITY = "coursera.labs.dayliselfie.provider";
+	public static final String AUTHORITY = "coursera.labs.dailyselfie.provider";
 	public static final Uri BASE_URI = Uri.parse("content://" + AUTHORITY + "/");
 	
-	public static final String SELFIE_TABLE_NAME = "seflie";
+	public static final String SELFIE_TABLE_NAME = "selfie";
 
 	// The URI for this table.
 	public static final Uri SELFIE_URI = Uri.withAppendedPath(BASE_URI, SELFIE_TABLE_NAME);

@@ -1,4 +1,4 @@
-package coursera.labs.dayliselfie.provider;
+package coursera.labs.dailyselfie.provider;
 
 import android.content.ContentProvider;
 import android.content.ContentUris;

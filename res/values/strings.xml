@@ -4,5 +4,10 @@
     <string name="app_name">DailySelfie</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="action_take_picture">Snap Photo</string>
+	<string name="action_disable_alarm">Stop alarms</string>
+	<string name="action_enable_alarm">Start alarms</string>
+	<string name="selfie_name_string">my_selfie_2015_01_01-10:01:01</string>
+	<string name="selfie_bitmap_descr">bitmap description</string>
 
 </resources>

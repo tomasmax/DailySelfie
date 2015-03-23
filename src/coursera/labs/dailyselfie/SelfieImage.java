@@ -1,6 +1,6 @@
 package coursera.labs.dailyselfie;
 
-import coursera.labs.dayliselfie.provider.SelfieContract;
+import coursera.labs.dailyselfie.provider.SelfieContract;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 
